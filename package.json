@@ -1,0 +1,17 @@
+{
+    "name": "backend-tecnico-1trimestre",
+    "version": "1.0.0",
+    "description": "Exercícios de Back-end para Turma Técnica",
+    "main": "servidor-http.js",
+    "scripts": {
+        "start": "node servidor-http.js",
+        "dev": "node --watch servidor-http.js"
+    },
+    "keywords": [
+        "node",
+        "backend",
+        "ensino-medio"
+    ],
+    "author": "Professor",
+    "license": "MIT"
+}
